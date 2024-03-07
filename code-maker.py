@@ -105,15 +105,11 @@ print ("installed!")
 time.sleep(3)
 print ("")
 
-'g3dt3dz' == input("inter 1 for give new code >>>")
+input("enter for give new code >>>")
 
-if 'g3dt3dz' == '1':
-    print(f"\033[36m")
-    print( bug+ltterhss+' '+random.choice(dscripts)+' '+random.choice(linksxs)+' '+adad_hasas)
-    time.sleep(5)
-    print(' 20 sayer 30 mostahjan ')
-    time.sleep(1)
-    
+print(f"\033[36m")
+print( bug+ltterhss+' '+random.choice(dscripts)+' '+random.choice(linksxs)+' '+adad_hasas)
+time.sleep(5)
+print(' 20 sayer 30 mostahjan ')
+  
 time.sleep(10.6)
-
-
