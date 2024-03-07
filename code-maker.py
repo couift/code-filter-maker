@@ -105,9 +105,9 @@ print ("installed!")
 time.sleep(3)
 print ("")
 
-g3dt3dz == input("inter 1 for give new code >>>")
+'g3dt3dz' == input("inter 1 for give new code >>>")
 
-if g3dt3dz == '1':
+if 'g3dt3dz' == '1':
     print(f"\033[36m")
     print(codereal)
     time.sleep(5)
