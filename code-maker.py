@@ -109,7 +109,7 @@ print ("")
 
 if 'g3dt3dz' == '1':
     print(f"\033[36m")
-    print(codereal)
+    print(coletterhss)
     time.sleep(5)
     print(' 20 sayer 30 mostahjan ')
     time.sleep(1)
