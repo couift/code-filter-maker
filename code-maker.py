@@ -26,7 +26,7 @@ bug = 'https://'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.ch
 
 ltterhss = random.choice(letterhss)+'.'+random.choice(letterhss)+'.'+random.choice(letterhss)+'.'+random.choice(letterhss)
 
-coletterhss = bug+ltterhss+' '+random.choice(dscripts)+' '+random.choice(linksxs)+' '+adad_hasas 
+'coletterhss' = bug+ltterhss+' '+random.choice(dscripts)+' '+random.choice(linksxs)+' '+adad_hasas 
 
 
 print(f"\033[35m")
@@ -109,7 +109,7 @@ print ("")
 
 if 'g3dt3dz' == '1':
     print(f"\033[36m")
-    print(coletterhss)
+    'coletterhss'
     time.sleep(5)
     print(' 20 sayer 30 mostahjan ')
     time.sleep(1)
