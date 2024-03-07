@@ -35,7 +35,7 @@ bug = 'https://'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.ch
 
 ltterhss = random.choice(letterhss)+'.'+random.choice(letterhss)+'.'+random.choice(letterhss)+'.'+random.choice(letterhss)
 
-coletterhss random.choice(bug)+' '+random.choice(ltterhss)+' '+random.choice(dscripts)+' '+random.choice(linksxs)+' '+random.choice(adad_hasas)
+coletterhss = bug+ltterhss+' '+random.choice(dscripts)+' '+random.choice(linksxs)+' '+adad_hasas 
 
 color='\033[34m'
 
