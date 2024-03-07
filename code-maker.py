@@ -28,16 +28,7 @@ ltterhss = random.choice(letterhss)+'.'+random.choice(letterhss)+'.'+random.choi
 
 coletterhss = bug+ltterhss+' '+random.choice(dscripts)+' '+random.choice(linksxs)+' '+adad_hasas 
 
-color='\033[34m'
 
-print(f"{green} ")
-print(f"{green} ")
-
-print (Fore.WHITE + "")
-
-print(f"{blue} ")
-print ("   ")
-print (Fore.YELLOW + "")
 print(f"\033[35m")
 x = f"""
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
@@ -74,19 +65,19 @@ for c in x:
     sys.stdout.flush()
     time.sleep(0.0000001)
 #i'm god
-print(Fore.GREEN + str(datetime.datetime.now()))
-print(f"{red} ")
-
 
 time.sleep(1)
 print(f"{green} ")
 print ("welcome ")
-print (Fore.YELLOW + "")
+
+
 time.sleep(0.1)
-print (Fore.LIGHTGREEN_EX + " programing by DMNHACKER        ")
-print (Fore.BLUE + "Supports rubika v3.11 ")
-print (Fore.RED + " servers.....ON          ")
-print(Fore.WHITE+'\n'+Fore.LIGHTBLUE_EX)
+print(f"\033[31m")
+print(" programing by DMNHACKER ")
+print(f"\033[31m")
+print("Supports rubika v3.6.4 ")
+print(f"\033[31m")
+print(" servers.....ON          ")
 print(f"{blue} ")
 time.sleep(2.5)
 print ("")
@@ -109,21 +100,23 @@ print ("..")
 time.sleep(0.1)
 print (".")
 time.sleep(0.5)
-print (Fore.LIGHTYELLOW_EX + "installed!")
+print(f"\033[31m")
+print ("installed!")
 time.sleep(3)
 print ("")
 
-get = input("inter 1 for give new code >>>")
+get == input("inter 1 for give new code >>>")
 
-if get == 1:
-    print(Fore.BLUE+codereal)
+if get == '1':
+    print(f"\033[36m")
+    print(codereal)
     time.sleep(5)
     print(' 20 sayer 30 mostahjan ')
     time.sleep(1)
     
 time.sleep(0.6)
 
-exit1=input(Fore.GREEN+"Enter key For back >>> ")
+exit1=input(F"Enter key For back >>> ")
 print('ok')
 time.sleep(2)
 system("clear")
