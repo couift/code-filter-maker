@@ -26,11 +26,17 @@ num = ['0','1','2','3','4','5','6','7','8','9','10']
 bug_num = ['05','13','62','63','49','l5','64','67','38','39','46','87','4','56','568','795','368','85','658','254','345','775','355','754','447','745','357']
 letter = ['a','f','e','n','h','x','u','t','w','m','z']
 slashes = ['/', '//', '///']
+
 letterhss = ['sex','xxx','porn','spam','hack','fil','filter',' scamming-users',' violent-content','threaten','intimidate','harass-users','Violation-of-Islamic','fuck-Islamic-Republic','pornhub','fuck-rubika','Malicious-link',]
+
 adad_hasas = 'https://'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.choice(bug_num)+''+random.choice(slashes)+''+random.choice(letter)+''+random.choice(slashes)+''+random.choice(letter)+''+random.choice(slashes)+''+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+'.'+random.choice(num)+''
+
 bug = 'https://'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.choice(bug_num)+'/'+random.choice(letter)+'//'+random.choice(letter)+'/'+random.choice(letter)+'/'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.choice(bug_num)+'/)\''
+
 ltterhss = random.choice(letterhss)+'.'+random.choice(letterhss)+'.'+random.choice(letterhss)+'.'+random.choice(letterhss)
+
 coletterhss random.choice(bug)+' '+random.choice(ltterhss)+' '+random.choice(dscripts)+' '+random.choice(linksxs)+' '+random.choice(adad_hasas)
+
 color='\033[34m'
 
 print(f"{green} ")
