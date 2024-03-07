@@ -114,10 +114,6 @@ if 'g3dt3dz' == '1':
     print(' 20 sayer 30 mostahjan ')
     time.sleep(1)
     
-time.sleep(0.6)
+time.sleep(10.6)
 
-exit1=input(F"Enter key For back >>> ")
-print('ok')
-time.sleep(2)
-system("clear")
-time.sleep(2)
+
