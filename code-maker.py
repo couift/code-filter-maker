@@ -26,7 +26,7 @@ bug = 'https://'+random.choice(bug_num)+'.'+random.choice(bug_num)+'.'+random.ch
 
 ltterhss = random.choice(letterhss)+'.'+random.choice(letterhss)+'.'+random.choice(letterhss)+'.'+random.choice(letterhss)
 
-'coletterhss' = bug+ltterhss+' '+random.choice(dscripts)+' '+random.choice(linksxs)+' '+adad_hasas 
+'coletterhss' == bug+ltterhss+' '+random.choice(dscripts)+' '+random.choice(linksxs)+' '+adad_hasas 
 
 
 print(f"\033[35m")
